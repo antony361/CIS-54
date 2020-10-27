@@ -1,11 +1,3 @@
-//===========================================
-// Course: CIS 054 (100616) C/C++ Programming
-// Assignment #: Day of Week
-// Name: Antonio Razo
-// ID: 0942201
-// Date: 04/08/2020
-// Platform: macOS
-// ===========================================
 #include <iostream>
 #include <string>
 using namespace std;

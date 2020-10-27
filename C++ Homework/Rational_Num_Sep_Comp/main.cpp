@@ -17,12 +17,3 @@ int main() {
 	return 0;
 }
 
-/* ==========================================================
-
-Problems I had working on this assignment (and how I overcame these problems)
-
-1. N/A
-
-2.
-
-========================================================== */
